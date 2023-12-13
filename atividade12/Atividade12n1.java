@@ -7,7 +7,7 @@ public class Atividade12n1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner leia = new Scanner(System.in);
+		
 		ArrayList<String> nomes = new ArrayList<String>();
 		String cores;
 		
